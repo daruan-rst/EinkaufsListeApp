@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GroceryStoreList</string>
+    <string name="inputMessage">Enter Item here</string>
+    <string name="headerMessage">Einkaufsliste für Lebensmittel</string>
+</resources>
